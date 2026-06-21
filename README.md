@@ -6,13 +6,6 @@
   Eleven open-source security tools, one ghost. Production command-line tools spanning offensive, defensive, supply-chain, cloud, and cryptographic security. Each is installable, test-covered, and green on CI.
 </p>
 
-<!-- ghostsuite-badges -->
-<p align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
-  <a href="https://github.com/joemunene-by/ghostsuite"><img src="https://img.shields.io/badge/GhostSuite-11%20tools-6f42c1" alt="GhostSuite: 11 tools"></a>
-</p>
-<!-- /ghostsuite-badges -->
-
 <p align="center">
   <img src="https://img.shields.io/badge/tools-11-6C9CFF?style=flat-square">
   <img src="https://img.shields.io/badge/tests-489%20passing-14B8A6?style=flat-square">
