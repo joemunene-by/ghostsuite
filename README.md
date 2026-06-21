@@ -1,3 +1,10 @@
+<!-- ghostsuite-badges -->
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
+  <a href="https://github.com/joemunene-by/ghostsuite"><img src="https://img.shields.io/badge/GhostSuite-11%20tools-6f42c1" alt="GhostSuite: 11 tools"></a>
+</p>
+<!-- /ghostsuite-badges -->
+
 <p align="center">
   <img src="assets/lockup.svg" alt="ghostsuite" width="760">
 </p>
