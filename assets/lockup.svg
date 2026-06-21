@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 420" width="1400" height="420" role="img" aria-label="ghost suite">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0E1018"/><stop offset="1" stop-color="#070810"/>
+    </linearGradient>
+    <radialGradient id="bglow" cx="0.30" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#C4A1FF" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#C4A1FF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="laccent" x1="0.2" y1="0" x2="0.85" y2="1">
+      <stop offset="0" stop-color="#6C9CFF"/><stop offset="1" stop-color="#C4A1FF"/>
+    </linearGradient>
+    <linearGradient id="lsheen" x1="0" y1="0.05" x2="0" y2="0.6">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="wm" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#E7ECF7"/>
+    </linearGradient>
+    <filter id="lshadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="16" flood-color="#6C9CFF" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+  <rect x="0" y="0" width="1400" height="420" rx="40" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1400" height="420" rx="40" fill="url(#bglow)"/>
+  <rect x="1" y="1" width="1398" height="418" rx="39" fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2"/>
+  <g transform="translate(168,86) scale(0.5)" filter="url(#lshadow)"><path d="M146,372 L146,240 A110,110 0 0 1 366,240 L366,372 Q329.5,408 293,372 Q256.5,408 220,372 Q183.5,408 146,372 Z" fill="url(#laccent)"/><path d="M146,372 L146,240 A110,110 0 0 1 366,240 L366,372 Q329.5,408 293,372 Q256.5,408 220,372 Q183.5,408 146,372 Z" fill="url(#lsheen)"/><circle cx="224" cy="226" r="15" fill="#0A0B10"/><circle cx="288" cy="226" r="15" fill="#0A0B10"/></g>
+  <g font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif">
+    <text x="486" y="228" font-size="122" font-weight="800" letter-spacing="-2" fill="url(#wm)">ghost<tspan fill="#C4A1FF">suite</tspan></text>
+    <text x="492" y="288" font-size="30" font-weight="500" letter-spacing="0.4" fill="#9AA3B8">Security tooling that makes the invisible auditable.</text>
+  </g>
+</svg>
